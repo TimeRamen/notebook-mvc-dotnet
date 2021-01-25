@@ -1,0 +1,65 @@
+
+<div class="contents">
+
+
+<form action="" method="get" class="title-item">
+
+      <label for="title">Title of the note: </label>
+        <input type="text" name="title" id="title" required>
+
+<label for="markdown">Markdown: </label>
+    <input type="checkbox" id="markdown" name="markdown">
+  
+</form>
+
+</div>
+
+
+<div class="container">
+
+    <label for="note">Content of the note: </label>
+
+<textarea id="note" name="note" rows="15" placeholder="Please input text here...">
+</textarea>
+
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-6">
+<label for="categories">In Categories: </label>
+<textarea id="categories" name="categories" rows="4" placeholder="No categories added" readonly disabled>
+</textarea>
+    </div>
+    <div class="col-6">
+
+
+
+<form action="" method="get" class="category-name">
+    <label for="cname">Category name: </label>
+    <input type="text" name="cname" id="cname" required>
+    <input type="submit" value="Add">
+    <input type="submit" value="Remove">
+</form>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-6">
+
+    </div>
+    <div class="col-6">
+          <input type="button" value="OK">
+          <input type="button" value="Cancel">
+    </div>
+  </div>
+
+</div>

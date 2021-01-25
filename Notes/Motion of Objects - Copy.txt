@@ -1,0 +1,5 @@
+Title: Motion of Objects
+Date: 03/11/19
+Categories: [Physics,Mathematics]
+
+In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a particle, known as complementary variables or canonically conjugate variables such as position x and momentum p, can be known or, depending on interpretation, to what extent such conjugate properties maintain their approximate meaning, as the mathematical framework of quantum physics does not support the notion of simultaneously well-defined conjugate properties expressed by a single value. 

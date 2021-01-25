@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Compose";
+}
+
+<form action="" method="post">
+    @Html.Raw(ViewBag.HTMLString)
+</form>
+
+
+
+
+<div class='col-6'>
+
+<label for='cname'>Category name: </label><input type='text' name='cname' id='cname' required>
+<input type='submit' value='Add'><input type='submit' value='Remove'></div></div></div>
+
+
+
+<div class='container'>
+    <div class='row'>
+        <div class='col-6'>
+
+        </div>
+        <div class='col-6'>
+            @Html.ActionLink("OK","SaveNote")
+            @Html.ActionLink("Cancel","Index")
+        </div>
+    </div>
+</div>
+
+
+

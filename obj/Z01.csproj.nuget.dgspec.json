@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Politechnika\\6thSemester\\EGUI\\lab 1\\Z01\\Z01.csproj": {}
+  },
+  "projects": {
+    "H:\\Politechnika\\6thSemester\\EGUI\\lab 1\\Z01\\Z01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Politechnika\\6thSemester\\EGUI\\lab 1\\Z01\\Z01.csproj",
+        "projectName": "Z01",
+        "projectPath": "H:\\Politechnika\\6thSemester\\EGUI\\lab 1\\Z01\\Z01.csproj",
+        "packagesPath": "C:\\Users\\Taimur Rahman\\.nuget\\packages\\",
+        "outputPath": "H:\\Politechnika\\6thSemester\\EGUI\\lab 1\\Z01\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taimur Rahman\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

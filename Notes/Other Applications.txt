@@ -1,0 +1,5 @@
+Title: Other Applications
+Date: 04/11/19
+Categories: [Technology,Applications]
+
+Scalable application design first means, there is a design for an application. So there is a start on the application itself. It is no use designing and thinking on how to create your killer application by trying to fit in as many good practices as possible, so that in the end you feel discouraged in even beginning to program. First step in creating an application is actually beginning. Do not overkill the project with great ideas which will take forever to implement or require you to study till you drop. Does this mean you do not have to study or apply good design principles? Of course not, you should on a permanent basis. It should become a habit, a second nature. It just means do not overdo it in the way you will never begin the project at all. To make it easy for you Eli gave some practical tips which you can apply immediately without any problems and which doesn’t require any real study or understanding of design principles.

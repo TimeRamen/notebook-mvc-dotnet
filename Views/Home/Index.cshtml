@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+  //  int currentPage = 1;
+   /*
+   void decCount(){
+      if(currentPage!=1){
+        currentPage--;
+      }
+    }
+    void incCount(){
+      if(currentPage<ViewBag.PageNum){
+        currentPage++;
+      }
+   }
+   */
+}
+
+
+@model Z01.Models.NotepadModel
+
+<div class="contents">
+
+
+<form action="" method="get" class="filter">
+     <label for="from">From:</label>
+        <input type="date" id="from" name="filter-start"
+       value= "" >
+    <label for="to">To:</label>
+    <input type="date" id="to" name="filter-start"
+       value="">
+@Html.Raw(ViewBag.HTMLCat)
+    <input type="submit" value="Filter">
+    <input type="submit" value="Clear">
+</form>
+</div>
+
+<div class="container">
+
+@Html.Raw(ViewBag.HTMLString)
+
+</div>
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-6">
+          <!--input type="button" value="New" id="New" name="New" action="NewNote" method="post"-->
+          @Html.ActionLink("New", "Compose")
+
+    </div>
+    <div class="col-6">
+          @Html.ActionLink("Back","Index",new {curPage=ViewBag.curPage, dir="back"})
+          <span>Page @ViewBag.curPage / @ViewBag.PageNum</span>
+          @Html.ActionLink("Next","Index",new {curPage=ViewBag.curPage, dir="next"})
+    </div>
+  </div>
+</div>

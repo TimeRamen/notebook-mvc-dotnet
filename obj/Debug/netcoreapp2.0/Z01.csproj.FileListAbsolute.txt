@@ -1,0 +1,23 @@
+/home/users/trahman/Z01/bin/Debug/netcoreapp2.0/Z01.deps.json
+/home/users/trahman/Z01/bin/Debug/netcoreapp2.0/Z01.runtimeconfig.json
+/home/users/trahman/Z01/bin/Debug/netcoreapp2.0/Z01.runtimeconfig.dev.json
+/home/users/trahman/Z01/bin/Debug/netcoreapp2.0/Z01.dll
+/home/users/trahman/Z01/bin/Debug/netcoreapp2.0/Z01.pdb
+/home/users/trahman/Z01/obj/Debug/netcoreapp2.0/Z01.csproj.CoreCompileInputs.cache
+/home/users/trahman/Z01/obj/Debug/netcoreapp2.0/Z01.AssemblyInfoInputs.cache
+/home/users/trahman/Z01/obj/Debug/netcoreapp2.0/Z01.AssemblyInfo.cs
+/home/users/trahman/Z01/obj/Debug/netcoreapp2.0/Z01.dll
+/home/users/trahman/Z01/obj/Debug/netcoreapp2.0/Z01.pdb
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\appsettings.Development.json
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\appsettings.json
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\bundleconfig.json
+H:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\Z01.deps.json
+H:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\Z01.runtimeconfig.json
+H:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\Z01.runtimeconfig.dev.json
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\Z01.dll
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\bin\Debug\netcoreapp2.0\Z01.pdb
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\obj\Debug\netcoreapp2.0\Z01.csprojAssemblyReference.cache
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\obj\Debug\netcoreapp2.0\Z01.AssemblyInfoInputs.cache
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\obj\Debug\netcoreapp2.0\Z01.AssemblyInfo.cs
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\obj\Debug\netcoreapp2.0\Z01.dll
+h:\Politechnika\6thSemester\EGUI\lab 1\Z01\obj\Debug\netcoreapp2.0\Z01.pdb

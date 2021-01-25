@@ -1,0 +1,51 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.contents{
+    padding: 0 15px;
+}
+
+#note{
+    width:100%;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    resize: none;
+}
+
+#categories{
+background: white;
+color: black;
+resize: none;
+border: solid 1px lightgrey;
+}
+
+td, label{
+  /*  width: 30%;*/
+  padding: 10px;
+}
+
+table{
+    width: 100%;
+}
+
+thead{
+    background: lightgray;
+}
+
+a, a:hover{
+    color: black;
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 5px;
+    background: lightgray;
+    margin: 5px;
+}
